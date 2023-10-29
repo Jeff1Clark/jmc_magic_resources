@@ -1,0 +1,12 @@
+{
+	"nukes": {
+		"sounds": [
+			"jmc_magic:legaize_nukes"
+		]
+	},
+	"bone":{
+		"sounds": [
+			"jmc_magic:bone"
+		]
+	}
+}
